@@ -6,7 +6,7 @@ module.exports = {
     entry: './src/main.js',
     output: {
         path: __dirname + '/public',
-        filename: 'bandle.js',
+        filename: 'bundle.js',
         assetModuleFilename: 'assets/images/[name]-[hash][ext]'
     },
     devServer: {
