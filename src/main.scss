@@ -1,0 +1,23 @@
+$font-size: 1rem;
+$font-color: rgb(130, 6, 97);
+
+html {
+  font-size: $font-size;
+  color: $font-color;
+}
+html {
+  font-family: "Roboto";
+}
+.logo1 {
+  width: 10em;
+}
+.logo2 {
+  width: 10em;
+}
+b{
+  color:red
+}
+body{
+  background: url(../src/images/cat.webp);
+  background-repeat: no-repeat;
+}
